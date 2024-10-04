@@ -11,3 +11,6 @@
 ## Technologies Used
 - Reactjs (Vite)
 - Tailwind css
+
+## vercel
+```https://formlist.vercel.app/```
